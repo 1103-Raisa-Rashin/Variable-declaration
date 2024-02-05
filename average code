@@ -1,0 +1,16 @@
+//Author:Rashin Raisa
+//Date: 2/4/2024
+//Purpose: Average Exam Score Assignment
+
+#include <stdio.h>
+int main(){
+  double midterm = 83.6;
+  double final = 74.3;
+  sum = midterm + final;
+  average = sum / 2;
+  sum;
+  average;
+  printf("The Exam Average is...\n");
+  printf(average\n);
+  return 0;
+}
