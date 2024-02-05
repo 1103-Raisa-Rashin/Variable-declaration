@@ -1,0 +1,21 @@
+//Vaarible assignment
+//Variable 1 friend
+#include <stdio.h>
+int main () {
+  printf ("Hi!\n") ;
+  return 0;
+}
+
+//Variable 2 Me
+#include <stdio.h>
+int main () {
+  printf ("How are you!\n") ;
+  return 1;
+}
+
+//Variable 3 Other Friend
+#include <stdio.h>
+int main () {
+  printf ("I'm good!\n") ;
+  return 2;
+} 
